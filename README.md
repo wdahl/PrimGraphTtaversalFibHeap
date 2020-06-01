@@ -12,3 +12,6 @@ The code is written in java and can be run in the terminal using the commands:
 javac Prim.java Graph.java FibHeap.java Node.java
 java Prim
 ```
+
+## Output
+It outputs the path of the minimum spanning tree through out the graph.
